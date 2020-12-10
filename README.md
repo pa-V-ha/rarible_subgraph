@@ -1,1 +1,1 @@
-# rarible_subgraph
+Subgraph for ExchangeV1 contract (Rarible)
